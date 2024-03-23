@@ -83,7 +83,7 @@
                 </div>
             </div>
         </div>
-        <!-- Main Header Area -->
+        <!-- Header Area -->
         <div class="main-header-area" id="stickyHeader">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">

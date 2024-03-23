@@ -49,7 +49,7 @@
 
 </style>
 
- <!-- ***** Header Area Start ***** -->
+ <!-- ***** Header Area ***** -->
     <header class="header-area">
 
         <!-- Top Header Area -->
