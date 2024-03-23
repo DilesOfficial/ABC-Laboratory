@@ -1,0 +1,98 @@
+﻿/* RadAjax - load user controls stylesheet */
+
+.panelContainer
+{
+    background: transparent url(../Images/PanelContainer.html) no-repeat left bottom;
+    width: auto;
+    /*width: 479px;*/
+    font: normal 12px Arial, Verdana, Sans-serif;
+    color: #a6a896;
+    height: 321px;
+}
+
+.tabsContainer
+{
+    width: 355px;
+    height: 72px;
+    text-align: center;
+}
+
+.tabsContainer img
+{
+    border: 0px;
+}
+
+.tabsContainer a
+{
+    margin-right: 1px;
+}
+
+.contentContainer
+{
+    width: auto;
+    /*width: 355px;*/
+    height: 175px;
+    min-height: 175px;
+    cursor: default;
+}
+
+.panelContent
+{
+    margin-left: 0;
+    /*margin-left:35px;
+    margin-top: 18px;*/
+}
+
+.contentContainer .inputText
+{
+    width: 154px;
+    border: solid 1px #7f9db9;
+    margin-bottom: 4px;
+    vertical-align: middle;
+    margin-left: 4px;
+    font: normal 12px Arial, Verdana, Sans-serif;
+    color: #7f9db9;
+}
+
+.contentContainer table
+{
+    font: normal 13px Arial, Verdana, Sans-serif;
+    color: #7f9db9;
+}
+
+.controlsContainer
+{
+    /*width: 469px;
+    height: 258px;
+        */
+}
+
+.exampleButton
+{
+    width: 85px;
+    height: 22px;
+    font: normal 11px Arial, Verdana, Sans-serif;
+    color: #52534b;
+    border: 0px;
+    background: transparent url(../Images/buttonBg.gif) no-repeat;
+    padding: 0px;
+    vertical-align: middle;
+}
+
+/* asp:datagrid related */
+.callBackDataGrid
+{
+    border: 0px;
+}
+.callBackDataGrid tr
+{
+    background: transparent url(../Images/DataGridBg.html) repeat-x;
+    line-height: 29px;
+}
+.deleteButton
+{
+    width: 13px;
+    height: 15px;
+    cursor: hand;
+    cursor: pointer;
+}
