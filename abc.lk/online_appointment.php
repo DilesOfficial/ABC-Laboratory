@@ -5,7 +5,7 @@
    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>  
       <meta charset="UTF-8">
-      <title>Online Appoinment Booking | Lanka Hospital Diagnostics</title>
+      <title>Online Appoinment Booking | ABC Laboratory</title>
       <meta name="keywords" content="Online Appoinment Booking" />
       <meta name="description" content="Online Appoinment Booking">
       <meta property="og:title" content="Online Appoinment Booking" />
@@ -76,14 +76,14 @@
 </div>
                             </div>
                             <div class="download_reports"><a target="_blank" style="border-right:0" href="http://www.lhdworld.lk/Secure/Login.aspx">Download Reports</a></div>
-                            <div class="download_reports" style="margin-top: 4px;"><a style="border-right:0; color: #fff;background-color: red;border-radius: 15px;padding: 2px 10px;height: 30px;border: 1px solid #ccc;" href="pcr-reservations.html">Book An Appoinment</a></div>
+                            <div class="download_reports" style="margin-top: 4px;"><a style="border-right:0; color: #fff;background-color: red;border-radius: 15px;padding: 2px 10px;height: 30px;border: 1px solid #ccc;" href="online_appointment.php">Book An Appoinment</a></div>
                             <div class="download_reports" style="border-right:0;"><a href="tel:0778959423">+94 (74) 101 1188</a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Header Area -->
+        <!-- Main Header Area -->
         <div class="main-header-area" id="stickyHeader">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
@@ -95,7 +95,7 @@
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#medilifeMenu" aria-controls="medilifeMenu" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                                 <div class="collapse navbar-collapse" id="medilifeMenu">
                                     <!-- Menu Area -->
-                                    <ul class="navbar-nav ml-auto"><li class="nav-item"><a class="nav-link " href="home-en.html">Home</a></li><a class="nav-link " href="our-tests.html">Our Tests</a></li><li class="nav-item"><a class="nav-link " href="our-team/board-of-directors.html">Our Staff</a></li><li class="nav-item"></li><li class="nav-item"><a class="nav-link " href="contact-us.html">Contact Us</a></li></ul>
+                                    <ul class="navbar-nav ml-auto"><li class="nav-item"><a class="nav-link " href="home-en.php">Home</a></li><a class="nav-link " href="our-tests.php">Our Tests</a></li><li class="nav-item"><a class="nav-link " href="our-team/board-of-directors.html">Our Staff</a></li><li class="nav-item"></li><li class="nav-item"><a class="nav-link " href="contact-us.php">Contact Us</a></li></ul>
                                 </div>
                             </nav>
                       </div>

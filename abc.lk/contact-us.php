@@ -7,7 +7,7 @@
 <head>  
 
       <meta charset="UTF-8">
-      <title>Contact Us - Call Us or Send Us Your Questions | Lanka Hospital Diagnostics</title>
+      <title>Contact Us - Call Us or Send Us Your Questions</title>
       <meta name="keywords" content="Lanka Hospital Diagnostics, LHD, Lanka Hospital Diagnostics Contact Us, LHD Contact Us, Contact LHD, Contact Lanka Hospital Diagnostics, Lanka Hospitals Diagnostics (Private) Limited (PV 90884) Corporate Office, LHD Regional Laboratory - Kandy, LHD Regional Laboratory - Galle, LHD Mini Lab, LHD Royal Hospital, LHD Mini Lab Negombo, LHD inquiries, Call LHD, Contact number LHD, LHD contact number, LHD Phone number, inquiries on lab tests,  inquiries on lab services" />
       <meta name="description" content="Feel free to get in touch with us if you have questions and concerns about our laboratory testing services. Call us now on (0115) 430 000.">
       <meta property="og:title" content="Contact Us" />
@@ -59,7 +59,7 @@
 
 </style>
 
- <!-- ***** Header Area ***** -->
+ <!-- ***** Header Area Start ***** -->
     <header class="header-area">
 
         <!-- Top Header Area -->
@@ -79,7 +79,7 @@
     </div>
 </div>
                             <div class="download_reports"><a target="_blank" style="border-right:0" href="http://www.lhdworld.lk/Secure/Login.aspx">Download Reports</a></div>
-                            <div class="download_reports" style="margin-top: 4px;"><a style="border-right:0; color: #fff;background-color: red;border-radius: 15px;padding: 2px 10px;height: 30px;border: 1px solid #ccc;" href="pcr-reservations.html">Book An Appoinment</a></div>
+                            <div class="download_reports" style="margin-top: 4px;"><a style="border-right:0; color: #fff;background-color: red;border-radius: 15px;padding: 2px 10px;height: 30px;border: 1px solid #ccc;" href="online_appointment.php">Book An Appoinment</a></div>
                             <div class="download_reports" style="border-right:0;"><a href="tel:0778959423">+94 (74) 101 1188</a></div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#medilifeMenu" aria-controls="medilifeMenu" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                                 <div class="collapse navbar-collapse" id="medilifeMenu">
                                     <!-- Menu Area -->
-                                    <ul class="navbar-nav ml-auto"><li class="nav-item"><a class="nav-link " href="home-en.html">Home</a></li><a class="nav-link " href="our-tests.html">Our Tests</a></li><li class="nav-item"><a class="nav-link " href="our-team/board-of-directors.html">Our Staff</a></li><li class="nav-item"></li><li class="nav-item"><a class="nav-link " href="contact-us.html">Contact Us</a></li></ul>
+                                    <ul class="navbar-nav ml-auto"><li class="nav-item"><a class="nav-link " href="home-en.php">Home</a></li><a class="nav-link " href="our-tests.php">Our Tests</a></li><li class="nav-item"><a class="nav-link " href="our-team/board-of-directors.html">Our Staff</a></li><li class="nav-item"></li><li class="nav-item"><a class="nav-link " href="contact-us.php">Contact Us</a></li></ul>
                                 </div>
                             </nav>
                       </div>
