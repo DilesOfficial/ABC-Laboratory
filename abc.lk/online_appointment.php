@@ -75,7 +75,7 @@
     </form>
 </div>
                             </div>
-                            <div class="download_reports"><a target="_blank" style="border-right:0" href="http://www.lhdworld.lk/Secure/Login.aspx">Download Reports</a></div>
+                            <div class="download_reports"><a target="_blank" style="border-right:0" href="../admin/invoice-view.html">Download Reports</a></div>
                             <div class="download_reports" style="margin-top: 4px;"><a style="border-right:0; color: #fff;background-color: red;border-radius: 15px;padding: 2px 10px;height: 30px;border: 1px solid #ccc;" href="online_appointment.php">Book An Appoinment</a></div>
                             <div class="download_reports" style="border-right:0;"><a href="tel:0778959423">+94 (74) 101 1188</a></div>
                         </div>
